@@ -1,0 +1,3 @@
+ninja-learning
+==============
+Misc projects
